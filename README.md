@@ -31,10 +31,6 @@ API keys can abe accessed via this [privatebin](https://privatebin.molops.io/?d4
 
 Make sure to paste the API keys into the file `helper_functions/keys.py` before running the notebook. You are ready to go now!
 
-## Video record
-
-Re-watch [Link](https://www.youtube.com/watch?v=MjeRY7zNb44&list=PLTdYvc4hjao-4OPJ-thNEYfIcnW6tbPSv)
-
 ## Credits
 
-This workshop was set up by **Ana Chaloska** ([Git](https://github.com/anachaloska), [LinkedIn](https://www.linkedin.com/in/ana-chaloska-809486149/)) and **Maria Bader, PhD,** ([Git](https://github.com/mkmbader), [LinkedIn](https://www.linkedin.com/in/mkmbader/)) and it was powered by [pyladiesams](https://github.com/pyladiesams).
+This workshop was set up by **Ana Chaloska** ([Git](https://github.com/anachaloska), [LinkedIn](https://www.linkedin.com/in/ana-chaloska-809486149/)) and **Maria Bader, PhD,** ([Git](https://github.com/mkmbader), [LinkedIn](https://www.linkedin.com/in/mkmbader/)).
