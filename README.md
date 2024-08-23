@@ -1,4 +1,4 @@
-# Introduction to LLM Agents with LangChain
+# Introduction to LLM Agents
 
 ### Level: Beginner
 
@@ -6,9 +6,9 @@
 
 ## Workshop description
 
-Welcome to the workshop on building LLM agents with LangChain!
+Welcome to the workshop on building LLM agents!
 
-With this notebook you will familiarize yourself with the key concepts of an LLM agent using LangChain. At the end, you will have all the code you need for your very own agent and you will be able to build custom tools for your own use-case. 
+With this notebook you will familiarize yourself with the key concepts of an LLM agent using LangChain and from scratch using the chatgpt chat completion endpoints. At the end, you will have all the code you need for your very own agent and you will be able to build custom tools for your own use-case. 
 
 ## Requirements
 
@@ -17,7 +17,7 @@ With this notebook you will familiarize yourself with the key concepts of an LLM
 
 ## Setting up your environment
 
-- Clone the repository with `git clone https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024`
+- Clone the repository with `git clone https://github.com/mkmbader/pydata_workshop_September2024.git`
 - Set up a virtual environment using `virtualenv`:
     - `pip install virtualenv`
     - Install environment: `python3 -m venv venv`
