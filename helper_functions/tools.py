@@ -77,7 +77,7 @@ weather_tool = StructuredTool.from_function(
 # ------------------------------------------------------------------------------------
 ##### Image tool #####
 def text_to_image(payload:str):
-    API_URL = "https://api-inference.huggingface.co/models/Corcelio/mobius"
+    API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
     headers = {"Authorization": f"Bearer {HUGGING_FACE_KEY}"}
 
     def query(payload):
