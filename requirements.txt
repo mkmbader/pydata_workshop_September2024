@@ -1,1 +1,7 @@
-404: Not Found
+langchain
+langchain_openai
+langchain_community
+wikipedia
+langchainhub
+pillow
+jupyter
