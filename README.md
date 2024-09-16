@@ -13,7 +13,7 @@ With this notebook you will familiarize yourself with the key concepts of an LLM
 - Python 3.8 or higher
 - Jupyter notebook or jupyter-lab
 
-## Setting up your environmen
+## Setting up your environment
 
 - The notebooks guide you how to set up the repo with Google Colab. 
 - If you prefer to run it locally instead please follow the steps below: 
