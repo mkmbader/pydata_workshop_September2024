@@ -27,7 +27,7 @@ With this repository you will familiarize yourself with the key concepts of an L
 
 ## API keys
 
-OpenAI API key can abe accessed via this [privatebin](https://privatebin.molops.io/?f508a05a49e6b21d#DR2E4qjM5xC2nR8jfdP9ctpUBZWJh3rNKdt8CsD9poaq). The password will be shared during the workshop. 
+OpenAI API key can abe accessed via this [privatebin](https://privatebin.molops.io/?b0b74a12fdc3a326#4tdRk8yiazMsEnKgsc4D2Tq3GWF7KVWkGPmTiFdAH2m5). The password will be shared during the workshop. 
 
 Make sure to paste the API keys into the file `helper_functions/keys.py` before running the notebook. You are ready to go now!
 
