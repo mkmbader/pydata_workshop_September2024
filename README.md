@@ -1,6 +1,6 @@
 # Introduction to LLM Agents
 
-### Presentation: [Slides](https://github.com/mkmbader/pydata_workshop_September2024/blob/main/workshop_slides.pdf)
+### Presentation: [Slides](https://github.com/mkmbader/pydata_workshop_September2024/blob/main/workshop_slides.pdf) 
 
 ## Workshop description
 
