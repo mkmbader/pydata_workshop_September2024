@@ -1,8 +1,6 @@
 # Introduction to LLM Agents
 
-### Level: Beginner
-
-### Presentation: [Slides](https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024/blob/master/workshop/workshop_instructions.pdf)
+### Presentation: [Slides](https://docs.google.com/presentation/d/1fSsMiim1G_FVSP-0ESK_cUsGFVjp7AK79ybInVrd5Rc/edit?usp=sharing)
 
 ## Workshop description
 
@@ -17,17 +15,19 @@ With this notebook you will familiarize yourself with the key concepts of an LLM
 
 ## Setting up your environment
 
-- Clone the repository with `git clone https://github.com/mkmbader/pydata_workshop_September2024.git`
-- Set up a virtual environment using `virtualenv`:
-    - `pip install virtualenv`
-    - Install environment: `python3 -m venv venv`
-    - Activate enviroment: `source venv/bin/activate`   
-    - Install dependencies in environment: `pip install -r requirements.txt`
-    - Select `venv` kernel in your notebook
+- The notebooks guide you how to set up the repo with Google Colab. 
+- If you prefer to run it locally instead please follow the steps below: 
+    - Clone the repository with `git clone https://github.com/mkmbader/pydata_workshop_September2024.git`
+    - Set up a virtual environment using `virtualenv`:
+        - `pip install virtualenv`
+        - Install environment: `python3 -m venv venv`
+        - Activate enviroment: `source venv/bin/activate`   
+        - Install dependencies in environment: `pip install -r requirements.txt`
+        - Select `venv` kernel in your notebook
 
 ## API keys
 
-API keys can abe accessed via this [privatebin](https://privatebin.molops.io/?d4232d4c16615a3e#JS4dcr5w2sqYgYRbChF4Bat1eZWmzkgSq5LZg7bJMvh). The password will be shared during the workshop. 
+OpenAI API key can abe accessed via this [privatebin](https://privatebin.molops.io/?f508a05a49e6b21d#DR2E4qjM5xC2nR8jfdP9ctpUBZWJh3rNKdt8CsD9poaq). The password will be shared during the workshop. 
 
 Make sure to paste the API keys into the file `helper_functions/keys.py` before running the notebook. You are ready to go now!
 
