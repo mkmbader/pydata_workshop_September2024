@@ -6,7 +6,7 @@
 
 Welcome to the workshop on building LLM agents!
 
-With this notebook you will familiarize yourself with the key concepts of an LLM agent using LangChain and from scratch using the chatgpt chat completion endpoints. At the end, you will have all the code you need for your very own agent and you will be able to build custom tools for your own use-case. 
+With this repository you will familiarize yourself with the key concepts of an LLM agent using LangChain and from scratch using the chatgpt chat completion endpoints. At the end, you will have all the code you need for your very own agent and you will be able to build custom tools for your own use-case. 
 
 ## Requirements
 
